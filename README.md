@@ -1,7 +1,9 @@
-# days-calculator-demo
+# date-calculator-demo
 
-This app will help you to calculate days starting from a specific date.
+This app will help you to calculate what date will be in certain number of days
 
-demo: https://josefdri.github.io/days-calculator/
+## Demo
+https://josefdri.github.io/date-calculator-demo/
 
-You can find the source code here https://github.com/JoseFdri/days-calculator
+## Source
+You can find the source code here https://github.com/JoseFdri/date-calculator
